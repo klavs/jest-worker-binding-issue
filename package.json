@@ -1,0 +1,15 @@
+{
+  "name": "jest-worker-binding-issue",
+  "version": "1.0.0",
+  "description": "Testing issue with jest-worker bound workers",
+  "main": "index.ts",
+  "author": "Klavs Prieditis",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "jest-worker": "^28.1.1"
+  }
+}
